@@ -1,0 +1,6 @@
+{
+  "name": "ABDERRAHIM LJNAOUI | Barber in Agadir",
+  "description": "Premium men's haircuts, fades and grooming in Agadir, Anza.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
